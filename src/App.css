@@ -1,3 +1,11 @@
 .gray-background {
   background: darkgray;
 }
+
+TableCell {
+  text-align: center;
+}
+
+body {
+  padding: 20px;
+}
